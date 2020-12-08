@@ -1,5 +1,4 @@
 package JUC;
-
 import java.util.HashSet;
 import java.util.List;
 import java.util.Set;
@@ -27,6 +26,4 @@ public class AllcallABLE {
             System.out.println(future.get());
         }
     }
-
-
 }
