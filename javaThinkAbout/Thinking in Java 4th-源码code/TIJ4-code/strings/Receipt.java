@@ -1,6 +1,4 @@
 //: strings/Receipt.java
-import java.util.*;
-
 public class Receipt {
   private double total = 0;
   private Formatter f = new Formatter(System.out);

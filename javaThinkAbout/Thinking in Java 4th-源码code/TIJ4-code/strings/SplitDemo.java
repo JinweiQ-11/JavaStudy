@@ -1,6 +1,4 @@
 //: strings/SplitDemo.java
-import java.util.regex.*;
-import java.util.*;
 import static net.mindview.util.Print.*;
 
 public class SplitDemo {

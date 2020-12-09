@@ -1,7 +1,5 @@
 //: typeinfo/Person.java
 // A class with a Null Object.
-import net.mindview.util.*;
-
 class Person {
   public final String first;
   public final String last;

@@ -1,6 +1,4 @@
 //: typeinfo/FilledList.java
-import java.util.*;
-
 class CountedInteger {
   private static long counter;
   private final long id = counter++;

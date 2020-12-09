@@ -1,6 +1,4 @@
 //: swt/ShellsAreMainWindows.java
-import org.eclipse.swt.widgets.*;
-
 public class ShellsAreMainWindows {
   static Shell[] shells = new Shell[10];
   public static void main(String [] args) {

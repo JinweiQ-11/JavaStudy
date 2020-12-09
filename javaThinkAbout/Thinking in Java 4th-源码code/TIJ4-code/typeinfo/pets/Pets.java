@@ -1,8 +1,6 @@
 //: typeinfo/pets/Pets.java
 // Facade to produce a default PetCreator.
 package typeinfo.pets;
-import java.util.*;
-
 public class Pets {
   public static final PetCreator creator =
     new LiteralPetCreator();

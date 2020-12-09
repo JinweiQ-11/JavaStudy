@@ -1,6 +1,4 @@
 //: typeinfo/ModifyingPrivateFields.java
-import java.lang.reflect.*;
-
 class WithPrivateFinalField {
   private int i = 1;
   private final String s = "I'm totally safe";

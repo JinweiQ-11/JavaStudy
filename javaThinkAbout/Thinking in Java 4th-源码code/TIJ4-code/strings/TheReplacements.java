@@ -1,6 +1,4 @@
 //: strings/TheReplacements.java
-import java.util.regex.*;
-import net.mindview.util.*;
 import static net.mindview.util.Print.*;
 
 /*! Here's a block of text to use as input to

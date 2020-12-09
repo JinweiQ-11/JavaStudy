@@ -1,6 +1,4 @@
 //: strings/Splitting.java
-import java.util.*;
-
 public class Splitting {
   public static String knights =
     "Then, when you have found the shrubbery, you must " +

@@ -1,7 +1,4 @@
 //: strings/Turtle.java
-import java.io.*;
-import java.util.*;
-
 public class Turtle {
   private String name;
   private Formatter f;

@@ -1,6 +1,4 @@
 //: strings/ReFlags.java
-import java.util.regex.*;
-
 public class ReFlags {
   public static void main(String[] args) {
     Pattern p =  Pattern.compile("^java",

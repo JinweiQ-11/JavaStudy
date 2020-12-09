@@ -1,10 +1,6 @@
 //: swt/SineWave.java
 // SWT translation of Swing SineWave.java.
 import swt.util.*;
-import org.eclipse.swt.*;
-import org.eclipse.swt.widgets.*;
-import org.eclipse.swt.events.*;
-import org.eclipse.swt.layout.*;
 
 class SineDraw extends Canvas {
   private static final int SCALEFACTOR = 200;

@@ -1,7 +1,5 @@
 //: swt/util/SWTConsole.java
 package swt.util;
-import org.eclipse.swt.widgets.*;
-
 public class SWTConsole {
   public static void
   run(SWTApplication swtApp, int width, int height) {

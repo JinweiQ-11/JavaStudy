@@ -1,6 +1,4 @@
 //: typeinfo/ClassInitialization.java
-import java.util.*;
-
 class Initable {
   static final int staticFinal = 47;
   static final int staticFinal2 =

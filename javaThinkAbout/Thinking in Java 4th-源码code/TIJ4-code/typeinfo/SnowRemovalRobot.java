@@ -1,6 +1,4 @@
 //: typeinfo/SnowRemovalRobot.java
-import java.util.*;
-
 public class SnowRemovalRobot implements Robot {
   private String name;
   public SnowRemovalRobot(String name) {this.name = name;}

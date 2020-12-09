@@ -1,7 +1,4 @@
 //: strings/ThreatAnalyzer.java
-import java.util.regex.*;
-import java.util.*;
-
 public class ThreatAnalyzer {
   static String threatData =
     "58.27.82.161@02/10/2005\n" +

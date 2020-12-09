@@ -1,8 +1,6 @@
 //: typeinfo/pets/LiteralPetCreator.java
 // Using class literals.
 package typeinfo.pets;
-import java.util.*;
-
 public class LiteralPetCreator extends PetCreator {
   // No try block needed.
   @SuppressWarnings("unchecked")

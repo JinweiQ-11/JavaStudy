@@ -1,6 +1,4 @@
 //: strings/Resetting.java
-import java.util.regex.*;
-
 public class Resetting {
   public static void main(String[] args) throws Exception {
     Matcher m = Pattern.compile("[frb][aiu][gx]")

@@ -1,8 +1,6 @@
 //: typeinfo/pets/PetCreator.java
 // Creates random sequences of Pets.
 package typeinfo.pets;
-import java.util.*;
-
 public abstract class PetCreator {
   private Random rand = new Random(47);
   // The List of the different types of Pet to create:

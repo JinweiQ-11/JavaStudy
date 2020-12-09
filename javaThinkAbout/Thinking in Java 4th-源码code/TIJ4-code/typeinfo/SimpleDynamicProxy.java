@@ -1,6 +1,4 @@
 //: typeinfo/SimpleDynamicProxy.java
-import java.lang.reflect.*;
-
 class DynamicProxyHandler implements InvocationHandler {
   private Object proxied;
   public DynamicProxyHandler(Object proxied) {

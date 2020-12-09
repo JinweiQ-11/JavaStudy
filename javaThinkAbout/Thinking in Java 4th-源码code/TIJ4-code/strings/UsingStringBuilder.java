@@ -1,6 +1,4 @@
 //: strings/UsingStringBuilder.java
-import java.util.*;
-
 public class UsingStringBuilder {
   public static Random rand = new Random(47);
   public String toString() {

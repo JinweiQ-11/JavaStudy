@@ -1,9 +1,5 @@
 //: swt/DisplayEnvironment.java
 import swt.util.*;
-import org.eclipse.swt.*;
-import org.eclipse.swt.widgets.*;
-import org.eclipse.swt.layout.*;
-import java.util.*;
 
 public class DisplayEnvironment implements SWTApplication {
   public void createContents(Composite parent) {

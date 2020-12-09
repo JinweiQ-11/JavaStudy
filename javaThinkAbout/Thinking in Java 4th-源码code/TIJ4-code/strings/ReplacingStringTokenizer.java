@@ -1,6 +1,4 @@
 //: strings/ReplacingStringTokenizer.java
-import java.util.*;
-
 public class ReplacingStringTokenizer {
   public static void main(String[] args) {
     String input = "But I'm not dead yet! I feel happy!";

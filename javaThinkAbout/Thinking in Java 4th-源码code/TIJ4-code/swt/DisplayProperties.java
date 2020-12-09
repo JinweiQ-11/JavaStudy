@@ -1,9 +1,4 @@
 //: swt/DisplayProperties.java
-import org.eclipse.swt.*;
-import org.eclipse.swt.widgets.*;
-import org.eclipse.swt.layout.*;
-import java.io.*;
-
 public class DisplayProperties {
   public static void main(String [] args) {
     Display display = new Display();
