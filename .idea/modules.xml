@@ -4,6 +4,16 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/JavaStudy.iml" filepath="$PROJECT_DIR$/JavaStudy.iml" />
       <module fileurl="file://$PROJECT_DIR$/../Spring/Spring.iml" filepath="$PROJECT_DIR$/../Spring/Spring.iml" />
+      <module fileurl="file://$USER_HOME$/git/spring/spring.iml" filepath="$USER_HOME$/git/spring/spring.iml" />
+      <module fileurl="file://$USER_HOME$/git/spring-aop-annotation/spring-aop-annotation.iml" filepath="$USER_HOME$/git/spring-aop-annotation/spring-aop-annotation.iml" />
+      <module fileurl="file://$USER_HOME$/git/spring-aop-xml/spring-aop-xml.iml" filepath="$USER_HOME$/git/spring-aop-xml/spring-aop-xml.iml" />
+      <module fileurl="file://$USER_HOME$/git/spring-datasource/spring-datasource.iml" filepath="$USER_HOME$/git/spring-datasource/spring-datasource.iml" />
+      <module fileurl="file://$USER_HOME$/git/spring-event/spring-event.iml" filepath="$USER_HOME$/git/spring-event/spring-event.iml" />
+      <module fileurl="file://$USER_HOME$/git/spring-ioc-annotation/spring-ioc-annotation.iml" filepath="$USER_HOME$/git/spring-ioc-annotation/spring-ioc-annotation.iml" />
+      <module fileurl="file://$USER_HOME$/git/spring-ioc-xml/spring-ioc-xml.iml" filepath="$USER_HOME$/git/spring-ioc-xml/spring-ioc-xml.iml" />
+      <module fileurl="file://$USER_HOME$/git/spring-quartz/spring-quartz.iml" filepath="$USER_HOME$/git/spring-quartz/spring-quartz.iml" />
+      <module fileurl="file://$USER_HOME$/git/spring-transaction/spring-transaction.iml" filepath="$USER_HOME$/git/spring-transaction/spring-transaction.iml" />
+      <module fileurl="file://$USER_HOME$/git/thinking-in-spring.iml" filepath="$USER_HOME$/git/thinking-in-spring.iml" />
     </modules>
   </component>
 </project>
