@@ -29,6 +29,7 @@ public class test01 {
         printV(new Object[]{new Person111(),45,45});
         Person111 p = new Person111();
         p.say();
+        System.out.println();
 
         final int aaa = 1;
 
