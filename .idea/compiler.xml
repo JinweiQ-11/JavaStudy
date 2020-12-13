@@ -6,16 +6,33 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="springiA4_11_persistence_hibernate4" />
+        <module name="springiA4_14_methodsecurity" />
+        <module name="springiA4_17_msg_amqp" />
         <module name="spring-quartz" />
-        <module name="Spring" />
-        <module name="spring-datasource" />
-        <module name="spring-event" />
+        <module name="springiA4_02_assembly" />
+        <module name="springiA4_11_persistence_jpa_hibernate" />
+        <module name="springiA4_04_aspectj" />
+        <module name="springiA4_03_advancedAssembly" />
+        <module name="springiA4_04_aop" />
         <module name="spring-aop-annotation" />
-        <module name="spring-ioc-annotation" />
         <module name="spring" />
+        <module name="spring-datasource" />
+        <module name="springiA4_11_persistence_jpa_springdata" />
+        <module name="springiA4_17_msg_jms" />
+        <module name="springiA4_01_knight" />
+        <module name="spring-event" />
+        <module name="Spring" />
         <module name="spring-ioc-xml" />
-        <module name="spring-transaction" />
+        <module name="springiA4_12_nosql_mongodb" />
         <module name="spring-aop-xml" />
+        <module name="springiA4_13_cache" />
+        <module name="spring-ioc-annotation" />
+        <module name="springiA4_10_jdbc" />
+        <module name="spring-transaction" />
+        <module name="springiA4_12_nosql_redis" />
+        <module name="springiA4_19_email" />
+        <module name="springiA4_12_nosql_neo4j" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8">
@@ -30,6 +47,24 @@
       <module name="spring-ioc-xml" target="1.8" />
       <module name="spring-quartz" target="1.8" />
       <module name="spring-transaction" target="1.8" />
+      <module name="springiA4_01_knight" target="1.8" />
+      <module name="springiA4_02_assembly" target="1.8" />
+      <module name="springiA4_03_advancedAssembly" target="1.8" />
+      <module name="springiA4_04_aop" target="1.8" />
+      <module name="springiA4_04_aspectj" target="1.8" />
+      <module name="springiA4_10_jdbc" target="1.5" />
+      <module name="springiA4_11_persistence_hibernate4" target="1.5" />
+      <module name="springiA4_11_persistence_jpa_hibernate" target="1.5" />
+      <module name="springiA4_11_persistence_jpa_springdata" target="1.5" />
+      <module name="springiA4_12_nosql_mongodb" target="1.5" />
+      <module name="springiA4_12_nosql_neo4j" target="1.5" />
+      <module name="springiA4_12_nosql_redis" target="1.5" />
+      <module name="springiA4_13_cache" target="1.5" />
+      <module name="springiA4_14_methodsecurity" target="1.5" />
+      <module name="springiA4_17_msg_amqp" target="1.5" />
+      <module name="springiA4_17_msg_jms" target="1.5" />
+      <module name="springiA4_19_email" target="1.5" />
+      <module name="springiA4_code" target="1.5" />
       <module name="thinking-in-spring" target="1.8" />
     </bytecodeTargetLevel>
   </component>

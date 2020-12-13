@@ -4,16 +4,34 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/JavaStudy.iml" filepath="$PROJECT_DIR$/JavaStudy.iml" />
       <module fileurl="file://$PROJECT_DIR$/../Spring/Spring.iml" filepath="$PROJECT_DIR$/../Spring/Spring.iml" />
-      <module fileurl="file://$USER_HOME$/git/spring/spring.iml" filepath="$USER_HOME$/git/spring/spring.iml" />
-      <module fileurl="file://$USER_HOME$/git/spring-aop-annotation/spring-aop-annotation.iml" filepath="$USER_HOME$/git/spring-aop-annotation/spring-aop-annotation.iml" />
-      <module fileurl="file://$USER_HOME$/git/spring-aop-xml/spring-aop-xml.iml" filepath="$USER_HOME$/git/spring-aop-xml/spring-aop-xml.iml" />
-      <module fileurl="file://$USER_HOME$/git/spring-datasource/spring-datasource.iml" filepath="$USER_HOME$/git/spring-datasource/spring-datasource.iml" />
-      <module fileurl="file://$USER_HOME$/git/spring-event/spring-event.iml" filepath="$USER_HOME$/git/spring-event/spring-event.iml" />
-      <module fileurl="file://$USER_HOME$/git/spring-ioc-annotation/spring-ioc-annotation.iml" filepath="$USER_HOME$/git/spring-ioc-annotation/spring-ioc-annotation.iml" />
-      <module fileurl="file://$USER_HOME$/git/spring-ioc-xml/spring-ioc-xml.iml" filepath="$USER_HOME$/git/spring-ioc-xml/spring-ioc-xml.iml" />
-      <module fileurl="file://$USER_HOME$/git/spring-quartz/spring-quartz.iml" filepath="$USER_HOME$/git/spring-quartz/spring-quartz.iml" />
-      <module fileurl="file://$USER_HOME$/git/spring-transaction/spring-transaction.iml" filepath="$USER_HOME$/git/spring-transaction/spring-transaction.iml" />
-      <module fileurl="file://$USER_HOME$/git/thinking-in-spring.iml" filepath="$USER_HOME$/git/thinking-in-spring.iml" />
+      <module fileurl="file://$USER_HOME$/git/springThink/spring/spring.iml" filepath="$USER_HOME$/git/springThink/spring/spring.iml" />
+      <module fileurl="file://$USER_HOME$/git/springThink/spring-aop-annotation/spring-aop-annotation.iml" filepath="$USER_HOME$/git/springThink/spring-aop-annotation/spring-aop-annotation.iml" />
+      <module fileurl="file://$USER_HOME$/git/springThink/spring-aop-xml/spring-aop-xml.iml" filepath="$USER_HOME$/git/springThink/spring-aop-xml/spring-aop-xml.iml" />
+      <module fileurl="file://$USER_HOME$/git/springThink/spring-datasource/spring-datasource.iml" filepath="$USER_HOME$/git/springThink/spring-datasource/spring-datasource.iml" />
+      <module fileurl="file://$USER_HOME$/git/springThink/spring-event/spring-event.iml" filepath="$USER_HOME$/git/springThink/spring-event/spring-event.iml" />
+      <module fileurl="file://$USER_HOME$/git/springThink/spring-ioc-annotation/spring-ioc-annotation.iml" filepath="$USER_HOME$/git/springThink/spring-ioc-annotation/spring-ioc-annotation.iml" />
+      <module fileurl="file://$USER_HOME$/git/springThink/spring-ioc-xml/spring-ioc-xml.iml" filepath="$USER_HOME$/git/springThink/spring-ioc-xml/spring-ioc-xml.iml" />
+      <module fileurl="file://$USER_HOME$/git/springThink/spring-quartz/spring-quartz.iml" filepath="$USER_HOME$/git/springThink/spring-quartz/spring-quartz.iml" />
+      <module fileurl="file://$USER_HOME$/git/springThink/spring-transaction/spring-transaction.iml" filepath="$USER_HOME$/git/springThink/spring-transaction/spring-transaction.iml" />
+      <module fileurl="file://$USER_HOME$/git/springAction/springiA4_01_knight/springiA4_01_knight.iml" filepath="$USER_HOME$/git/springAction/springiA4_01_knight/springiA4_01_knight.iml" />
+      <module fileurl="file://$USER_HOME$/git/springAction/springiA4_02_assembly/springiA4_02_assembly.iml" filepath="$USER_HOME$/git/springAction/springiA4_02_assembly/springiA4_02_assembly.iml" />
+      <module fileurl="file://$USER_HOME$/git/springAction/springiA4_03_advancedAssembly/springiA4_03_advancedAssembly.iml" filepath="$USER_HOME$/git/springAction/springiA4_03_advancedAssembly/springiA4_03_advancedAssembly.iml" />
+      <module fileurl="file://$USER_HOME$/git/springAction/springiA4_04_aop/springiA4_04_aop.iml" filepath="$USER_HOME$/git/springAction/springiA4_04_aop/springiA4_04_aop.iml" />
+      <module fileurl="file://$USER_HOME$/git/springAction/springiA4_04_aspectj/springiA4_04_aspectj.iml" filepath="$USER_HOME$/git/springAction/springiA4_04_aspectj/springiA4_04_aspectj.iml" />
+      <module fileurl="file://$USER_HOME$/git/springAction/springiA4_10_jdbc/springiA4_10_jdbc.iml" filepath="$USER_HOME$/git/springAction/springiA4_10_jdbc/springiA4_10_jdbc.iml" />
+      <module fileurl="file://$USER_HOME$/git/springAction/springiA4_11_persistence_hibernate4/springiA4_11_persistence_hibernate4.iml" filepath="$USER_HOME$/git/springAction/springiA4_11_persistence_hibernate4/springiA4_11_persistence_hibernate4.iml" />
+      <module fileurl="file://$USER_HOME$/git/springAction/springiA4_11_persistence_jpa_hibernate/springiA4_11_persistence_jpa_hibernate.iml" filepath="$USER_HOME$/git/springAction/springiA4_11_persistence_jpa_hibernate/springiA4_11_persistence_jpa_hibernate.iml" />
+      <module fileurl="file://$USER_HOME$/git/springAction/springiA4_11_persistence_jpa_springdata/springiA4_11_persistence_jpa_springdata.iml" filepath="$USER_HOME$/git/springAction/springiA4_11_persistence_jpa_springdata/springiA4_11_persistence_jpa_springdata.iml" />
+      <module fileurl="file://$USER_HOME$/git/springAction/springiA4_12_nosql_mongodb/springiA4_12_nosql_mongodb.iml" filepath="$USER_HOME$/git/springAction/springiA4_12_nosql_mongodb/springiA4_12_nosql_mongodb.iml" />
+      <module fileurl="file://$USER_HOME$/git/springAction/springiA4_12_nosql_neo4j/springiA4_12_nosql_neo4j.iml" filepath="$USER_HOME$/git/springAction/springiA4_12_nosql_neo4j/springiA4_12_nosql_neo4j.iml" />
+      <module fileurl="file://$USER_HOME$/git/springAction/springiA4_12_nosql_redis/springiA4_12_nosql_redis.iml" filepath="$USER_HOME$/git/springAction/springiA4_12_nosql_redis/springiA4_12_nosql_redis.iml" />
+      <module fileurl="file://$USER_HOME$/git/springAction/springiA4_13_cache/springiA4_13_cache.iml" filepath="$USER_HOME$/git/springAction/springiA4_13_cache/springiA4_13_cache.iml" />
+      <module fileurl="file://$USER_HOME$/git/springAction/springiA4_14_methodsecurity/springiA4_14_methodsecurity.iml" filepath="$USER_HOME$/git/springAction/springiA4_14_methodsecurity/springiA4_14_methodsecurity.iml" />
+      <module fileurl="file://$USER_HOME$/git/springAction/springiA4_17_msg_amqp/springiA4_17_msg_amqp.iml" filepath="$USER_HOME$/git/springAction/springiA4_17_msg_amqp/springiA4_17_msg_amqp.iml" />
+      <module fileurl="file://$USER_HOME$/git/springAction/springiA4_17_msg_jms/springiA4_17_msg_jms.iml" filepath="$USER_HOME$/git/springAction/springiA4_17_msg_jms/springiA4_17_msg_jms.iml" />
+      <module fileurl="file://$USER_HOME$/git/springAction/springiA4_19_email/springiA4_19_email.iml" filepath="$USER_HOME$/git/springAction/springiA4_19_email/springiA4_19_email.iml" />
+      <module fileurl="file://$USER_HOME$/git/springAction/springiA4_code.iml" filepath="$USER_HOME$/git/springAction/springiA4_code.iml" />
+      <module fileurl="file://$USER_HOME$/git/springThink/thinking-in-spring.iml" filepath="$USER_HOME$/git/springThink/thinking-in-spring.iml" />
     </modules>
   </component>
 </project>

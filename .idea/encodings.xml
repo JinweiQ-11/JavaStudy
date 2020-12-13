@@ -3,21 +3,52 @@
   <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
     <file url="file://$PROJECT_DIR$/../Spring/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../Spring/src/main/resources" charset="UTF-8" />
-    <file url="file://$USER_HOME$/git/spring-aop-annotation/src/main/java" charset="UTF-8" />
-    <file url="file://$USER_HOME$/git/spring-aop-annotation/src/main/resources" charset="UTF-8" />
-    <file url="file://$USER_HOME$/git/spring-aop-xml/src/main/java" charset="UTF-8" />
-    <file url="file://$USER_HOME$/git/spring-aop-xml/src/main/resources" charset="UTF-8" />
-    <file url="file://$USER_HOME$/git/spring-datasource/src/main/java" charset="UTF-8" />
-    <file url="file://$USER_HOME$/git/spring-datasource/src/main/resources" charset="UTF-8" />
-    <file url="file://$USER_HOME$/git/spring-event/src/main/java" charset="UTF-8" />
-    <file url="file://$USER_HOME$/git/spring-ioc-annotation/src/main/java" charset="UTF-8" />
-    <file url="file://$USER_HOME$/git/spring-ioc-xml/src/main/java" charset="UTF-8" />
-    <file url="file://$USER_HOME$/git/spring-ioc-xml/src/main/resources" charset="UTF-8" />
-    <file url="file://$USER_HOME$/git/spring-quartz/src/main/java" charset="UTF-8" />
-    <file url="file://$USER_HOME$/git/spring-quartz/src/main/resources" charset="UTF-8" />
-    <file url="file://$USER_HOME$/git/spring-transaction/src/main/java" charset="UTF-8" />
-    <file url="file://$USER_HOME$/git/spring-transaction/src/main/resources" charset="UTF-8" />
-    <file url="file://$USER_HOME$/git/spring/src/main/java" charset="UTF-8" />
+    <file url="file://$USER_HOME$/git/springAction/springiA4_01_knight/src/main/java" charset="UTF-8" />
+    <file url="file://$USER_HOME$/git/springAction/springiA4_01_knight/src/main/resources" charset="UTF-8" />
+    <file url="file://$USER_HOME$/git/springAction/springiA4_02_assembly/src/main/java" charset="UTF-8" />
+    <file url="file://$USER_HOME$/git/springAction/springiA4_02_assembly/src/main/resources" charset="UTF-8" />
+    <file url="file://$USER_HOME$/git/springAction/springiA4_03_advancedAssembly/src/main/java" charset="UTF-8" />
+    <file url="file://$USER_HOME$/git/springAction/springiA4_03_advancedAssembly/src/main/resources" charset="UTF-8" />
+    <file url="file://$USER_HOME$/git/springAction/springiA4_04_aop/src/main/java" charset="UTF-8" />
+    <file url="file://$USER_HOME$/git/springAction/springiA4_04_aop/src/main/resources" charset="UTF-8" />
+    <file url="file://$USER_HOME$/git/springAction/springiA4_04_aspectj/src/main/java" charset="UTF-8" />
+    <file url="file://$USER_HOME$/git/springAction/springiA4_04_aspectj/src/main/resources" charset="UTF-8" />
+    <file url="file://$USER_HOME$/git/springAction/springiA4_10_jdbc/src/main/java" charset="UTF-8" />
+    <file url="file://$USER_HOME$/git/springAction/springiA4_10_jdbc/src/main/resources" charset="UTF-8" />
+    <file url="file://$USER_HOME$/git/springAction/springiA4_11_persistence_hibernate4/src/main/java" charset="UTF-8" />
+    <file url="file://$USER_HOME$/git/springAction/springiA4_11_persistence_hibernate4/src/main/resources" charset="UTF-8" />
+    <file url="file://$USER_HOME$/git/springAction/springiA4_11_persistence_jpa_hibernate/src/main/java" charset="UTF-8" />
+    <file url="file://$USER_HOME$/git/springAction/springiA4_11_persistence_jpa_hibernate/src/main/resources" charset="UTF-8" />
+    <file url="file://$USER_HOME$/git/springAction/springiA4_11_persistence_jpa_springdata/src/main/java" charset="UTF-8" />
+    <file url="file://$USER_HOME$/git/springAction/springiA4_11_persistence_jpa_springdata/src/main/resources" charset="UTF-8" />
+    <file url="file://$USER_HOME$/git/springAction/springiA4_12_nosql_mongodb/src/main/java" charset="UTF-8" />
+    <file url="file://$USER_HOME$/git/springAction/springiA4_12_nosql_neo4j/src/main/java" charset="UTF-8" />
+    <file url="file://$USER_HOME$/git/springAction/springiA4_12_nosql_redis/src/main/java" charset="UTF-8" />
+    <file url="file://$USER_HOME$/git/springAction/springiA4_13_cache/src/main/java" charset="UTF-8" />
+    <file url="file://$USER_HOME$/git/springAction/springiA4_13_cache/src/main/resources" charset="UTF-8" />
+    <file url="file://$USER_HOME$/git/springAction/springiA4_14_methodsecurity/src/main/java" charset="UTF-8" />
+    <file url="file://$USER_HOME$/git/springAction/springiA4_14_methodsecurity/src/main/resources" charset="UTF-8" />
+    <file url="file://$USER_HOME$/git/springAction/springiA4_17_msg_amqp/src/main/java" charset="UTF-8" />
+    <file url="file://$USER_HOME$/git/springAction/springiA4_17_msg_amqp/src/main/resources" charset="UTF-8" />
+    <file url="file://$USER_HOME$/git/springAction/springiA4_17_msg_jms/src/main/java" charset="UTF-8" />
+    <file url="file://$USER_HOME$/git/springAction/springiA4_17_msg_jms/src/main/resources" charset="UTF-8" />
+    <file url="file://$USER_HOME$/git/springAction/springiA4_19_email/src/main/java" charset="UTF-8" />
+    <file url="file://$USER_HOME$/git/springAction/springiA4_19_email/src/main/resources" charset="UTF-8" />
+    <file url="file://$USER_HOME$/git/springThink/spring-aop-annotation/src/main/java" charset="UTF-8" />
+    <file url="file://$USER_HOME$/git/springThink/spring-aop-annotation/src/main/resources" charset="UTF-8" />
+    <file url="file://$USER_HOME$/git/springThink/spring-aop-xml/src/main/java" charset="UTF-8" />
+    <file url="file://$USER_HOME$/git/springThink/spring-aop-xml/src/main/resources" charset="UTF-8" />
+    <file url="file://$USER_HOME$/git/springThink/spring-datasource/src/main/java" charset="UTF-8" />
+    <file url="file://$USER_HOME$/git/springThink/spring-datasource/src/main/resources" charset="UTF-8" />
+    <file url="file://$USER_HOME$/git/springThink/spring-event/src/main/java" charset="UTF-8" />
+    <file url="file://$USER_HOME$/git/springThink/spring-ioc-annotation/src/main/java" charset="UTF-8" />
+    <file url="file://$USER_HOME$/git/springThink/spring-ioc-xml/src/main/java" charset="UTF-8" />
+    <file url="file://$USER_HOME$/git/springThink/spring-ioc-xml/src/main/resources" charset="UTF-8" />
+    <file url="file://$USER_HOME$/git/springThink/spring-quartz/src/main/java" charset="UTF-8" />
+    <file url="file://$USER_HOME$/git/springThink/spring-quartz/src/main/resources" charset="UTF-8" />
+    <file url="file://$USER_HOME$/git/springThink/spring-transaction/src/main/java" charset="UTF-8" />
+    <file url="file://$USER_HOME$/git/springThink/spring-transaction/src/main/resources" charset="UTF-8" />
+    <file url="file://$USER_HOME$/git/springThink/spring/src/main/java" charset="UTF-8" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>
