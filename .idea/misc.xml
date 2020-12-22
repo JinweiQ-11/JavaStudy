@@ -3,6 +3,7 @@
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/../mvc" />
     <file type="web" url="file://$PROJECT_DIR$/../Spring" />
+    <file type="web" url="file://$USER_HOME$/git/Spring" />
     <type id="Spring" />
   </component>
   <component name="MavenProjectsManager">
@@ -10,10 +11,10 @@
       <list>
         <option value="$PROJECT_DIR$/../mvc/pom.xml" />
         <option value="$PROJECT_DIR$/../myspringmvc/pom.xml" />
-        <option value="$PROJECT_DIR$/../Spring/pom.xml" />
         <option value="$USER_HOME$/git/pom.xml" />
         <option value="$USER_HOME$/git/springAction/pom.xml" />
         <option value="$USER_HOME$/git/springThink/pom.xml" />
+        <option value="$PROJECT_DIR$/../Spring/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
@@ -23,6 +24,6 @@
     </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK">
-    <output url="file://$PROJECT_DIR$/out" />
+    <output url="file://$PROJECT_DIR$/out/production/JavaStudy" />
   </component>
 </project>
