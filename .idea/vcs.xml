@@ -3,6 +3,7 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../Spring" vcs="Git" />
+    <mapping directory="$USER_HOME$/git/Java-concurrency" vcs="Git" />
     <mapping directory="$USER_HOME$/git/springAction" vcs="Git" />
     <mapping directory="$USER_HOME$/git/springThink" vcs="Git" />
   </component>

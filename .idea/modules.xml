@@ -2,8 +2,17 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$USER_HOME$/git/Java-concurrency/Java-concurrency.iml" filepath="$USER_HOME$/git/Java-concurrency/Java-concurrency.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaStudy.iml" filepath="$PROJECT_DIR$/JavaStudy.iml" />
       <module fileurl="file://$PROJECT_DIR$/../Spring/Spring.iml" filepath="$PROJECT_DIR$/../Spring/Spring.iml" />
+      <module fileurl="file://$USER_HOME$/git/edu/concurrent/concurrent.iml" filepath="$USER_HOME$/git/edu/concurrent/concurrent.iml" />
+      <module fileurl="file://$USER_HOME$/git/edu/ego-common/ego-common.iml" filepath="$USER_HOME$/git/edu/ego-common/ego-common.iml" />
+      <module fileurl="file://$USER_HOME$/git/edu/ego-manager/ego-manager-mapper/ego-manager-mapper.iml" filepath="$USER_HOME$/git/edu/ego-manager/ego-manager-mapper/ego-manager-mapper.iml" />
+      <module fileurl="file://$USER_HOME$/git/edu/ego-manager/ego-manager-pojo/ego-manager-pojo.iml" filepath="$USER_HOME$/git/edu/ego-manager/ego-manager-pojo/ego-manager-pojo.iml" />
+      <module fileurl="file://$USER_HOME$/git/edu/ego-manager/ego-manager-service/ego-manager-service.iml" filepath="$USER_HOME$/git/edu/ego-manager/ego-manager-service/ego-manager-service.iml" />
+      <module fileurl="file://$USER_HOME$/git/edu/ego-manager/ego-manager-web/ego-manager-web.iml" filepath="$USER_HOME$/git/edu/ego-manager/ego-manager-web/ego-manager-web.iml" />
+      <module fileurl="file://$USER_HOME$/git/edu/ego-portal/ego-portal.iml" filepath="$USER_HOME$/git/edu/ego-portal/ego-portal.iml" />
+      <module fileurl="file://$USER_HOME$/git/edu/ego-rest/ego-rest.iml" filepath="$USER_HOME$/git/edu/ego-rest/ego-rest.iml" />
       <module fileurl="file://$USER_HOME$/git/springThink/spring/spring.iml" filepath="$USER_HOME$/git/springThink/spring/spring.iml" />
       <module fileurl="file://$USER_HOME$/git/springThink/spring-aop-annotation/spring-aop-annotation.iml" filepath="$USER_HOME$/git/springThink/spring-aop-annotation/spring-aop-annotation.iml" />
       <module fileurl="file://$USER_HOME$/git/springThink/spring-aop-xml/spring-aop-xml.iml" filepath="$USER_HOME$/git/springThink/spring-aop-xml/spring-aop-xml.iml" />
